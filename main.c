@@ -1,10 +1,5 @@
 /*
-* *Greedy Coloring - HW2 *
 * Name: Tomer Zaidler
-* ID : 312468549
-* Group Number: 61309-6
-* Lecturer : Dr. Ahuva Meualem
-* Lecturer Practitioner: Dr. Yulia Kempner
 */
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
